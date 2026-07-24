@@ -5,7 +5,7 @@
 
 # Adam
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,git,mongodb,docker,html" alt="Tech Stack" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRoY2JoMmgwZXoxNnB3MXh0bnFtNXp3cHY2ajExNWN6dGV3MnFlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTg8B31DCfCWKEThG8/giphy.gif" />
 
 <br/>
 
