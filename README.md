@@ -7,7 +7,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRoY2JoMmgwZXoxNnB3MXh0bnFtNXp3cHY2ajExNWN6dGV3MnFlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTg8B31DCfCWKEThG8/giphy.gif" />
 
-<br/>
+</div>
 
 ![Total Repos](https://img.shields.io/badge/Total_Repos-XX-orange?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-XX-orange?style=for-the-badge)
