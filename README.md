@@ -16,3 +16,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 </p>
+
+<p align="center">
+  <a href="https://github.com/xqyet">
+    <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=00000000&tc=FE8018&ic=8EC07C&bc=00000000">
+  </a>
+</p>
