@@ -1,20 +1,18 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/braves.gif" width="250">
+</h1>
 
-<br/>
-
-
-# Adam
-
-
-![Total Repos](https://img.shields.io/badge/Total_Repos-XX-orange?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-XX-orange?style=for-the-badge)
-![Forks](https://img.shields.io/badge/Forks-XX-orange?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions-XX-orange?style=for-the-badge)
-![Issues Closed](https://img.shields.io/badge/Issues_Closed-XX-orange?style=for-the-badge)
-
-<br/>
-
-[![Discord](https://img.shields.io/badge/Discord-XGMN-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007215426738073650)
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-D323123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D323123)
-
-</div>
+<h3 align="center"></h3>
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
+</p>
