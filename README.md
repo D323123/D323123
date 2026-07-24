@@ -1,8 +1,13 @@
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRoY2JoMmgwZXoxNnB3MXh0bnFtNXp3cHY2ajExNWN6dGV3MnFlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTg8B31DCfCWKEThG8/giphy.gif" width="250">
 </h1>
+<div align="center">
+
+<br/>
+
 
 # Adam
+
 
 <h3 align="center"></h3>
 <p align="center">
