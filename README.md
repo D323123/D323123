@@ -3,11 +3,8 @@
 </h1>
 <div align="center">
 
-<br/>
-
 # Adam
 
-<h3 align="center"></h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
